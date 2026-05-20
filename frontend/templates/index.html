@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Action Recommendation Frontend</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;600;700&family=Source+Serif+4:wght@600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+  </head>
+  <body>
+    <div class="bg-shape shape-a"></div>
+    <div class="bg-shape shape-b"></div>
+
+    <main class="wrap">
+      <header class="hero">
+        <p class="kicker">Supply Chain Intelligence</p>
+        <h1>Delay Risk Action Recommender</h1>
+        <p>
+          This frontend uses the same logic as your notebook to score delay probability and suggest
+          a recommended action plan.
+        </p>
+        <p class="meta">Current delay threshold from training data: <strong>{{ '%.2f'|format(threshold) }}</strong></p>
+      </header>
+
+      <section class="card">
+        <form method="post" class="grid">
+          {% for feature in feature_schema %}
+            <label class="field">
+              <span>{{ feature.name }}</span>
+
+              {% if feature.kind == 'category' %}
+                <input
+                  type="text"
+                  name="{{ feature.name }}"
+                  list="list-{{ loop.index }}"
+                  value="{{ submitted.get(feature.name, feature.default) }}"
+                />
+                <datalist id="list-{{ loop.index }}">
+                  {% for option in feature.options %}
+                    <option value="{{ option }}"></option>
+                  {% endfor %}
+                </datalist>
+              {% else %}
+                <input
+                  type="number"
+                  step="any"
+                  name="{{ feature.name }}"
+                  value="{{ submitted.get(feature.name, feature.default) }}"
+                />
+              {% endif %}
+            </label>
+          {% endfor %}
+
+          <button type="submit">Recommend Action</button>
+        </form>
+
+        {% if error %}
+          <p class="error">{{ error }}</p>
+        {% endif %}
+      </section>
+
+      {% if result %}
+        <section class="result card result-{{ result.Risk_Level|lower }}">
+          <h2>Recommendation Result</h2>
+          <div class="stats">
+            <div><span>Delay Probability</span><strong>{{ result.Delay_Probability }}</strong></div>
+            <div><span>Risk Level</span><strong>{{ result.Risk_Level }}</strong></div>
+            <div><span>Priority</span><strong>{{ result.Priority }}</strong></div>
+            <div><span>Owner</span><strong>{{ result.Owner }}</strong></div>
+            <div><span>SLA (Hours)</span><strong>{{ result.SLA_Hours }}</strong></div>
+          </div>
+          <p class="action-text">{{ result.Action }}</p>
+        </section>
+      {% endif %}
+    </main>
+  </body>
+</html>

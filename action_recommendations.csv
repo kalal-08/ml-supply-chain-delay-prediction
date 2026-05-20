@@ -1,0 +1,751 @@
+acquisition_cost_usd,order_value_usd,satisfaction_score,support_tickets,days_acq_to_order,days_order_to_payment,acquisition_date_year,acquisition_date_month,acquisition_date_dayofweek,order_date_year,order_date_month,order_date_dayofweek,payment_date_year,payment_date_month,payment_date_dayofweek,market_segment_Asia-Pacific,market_segment_Europe,market_segment_Middle East,market_segment_North America,supplier_id_SUP-B,supplier_id_SUP-C,supplier_id_SUP-D,supplier_id_SUP-E,supplier_id_SUP-F,supplier_id_SUP-G,Delay_Probability,Risk_Level,Action,Priority,Owner,SLA_Hours
+960,9000,3,1,740,40,2025,4,6,2027,4,4,2027,6,2,False,False,False,False,False,False,False,False,False,True,0.985,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8000,4,2,715,40,2025,4,4,2027,3,5,2027,4,3,False,False,False,False,False,False,False,False,True,False,0.975,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,4,2,492,40,2024,11,0,2026,3,2,2026,4,0,False,False,False,False,False,False,False,False,False,False,0.97,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,3,1,542,40,2024,12,4,2026,6,0,2026,7,5,False,False,False,False,False,False,False,False,True,False,0.97,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,3,1,851,40,2025,7,1,2027,10,5,2027,12,3,False,False,False,False,False,False,False,True,False,False,0.965,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,9000,3,1,1013,40,2025,10,0,2028,7,5,2028,8,3,False,False,False,False,False,False,False,False,False,False,0.965,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,9000,3,2,126,41,2024,3,3,2024,7,3,2024,9,2,False,False,False,False,False,False,True,False,False,False,0.965,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,9500,3,1,479,40,2024,11,6,2026,2,2,2026,4,0,False,False,False,False,False,False,False,False,False,True,0.965,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,8000,3,1,1125,40,2025,12,2,2029,1,0,2029,3,5,False,False,False,False,True,False,False,False,False,False,0.96,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8000,4,2,268,40,2024,6,3,2025,3,5,2025,4,3,False,False,False,False,False,False,True,False,False,False,0.96,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,3,1,989,40,2025,9,5,2028,6,0,2028,7,5,False,False,False,False,False,True,False,False,False,False,0.96,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,9500,3,1,517,40,2024,11,2,2026,4,1,2026,6,6,False,False,False,False,True,False,False,False,False,False,0.955,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,3,1,1076,40,2025,11,5,2028,11,3,2028,12,1,False,False,False,False,False,True,False,False,False,False,0.955,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,9000,3,1,566,40,2024,12,6,2026,7,5,2026,8,3,False,False,False,False,False,False,False,False,False,True,0.955,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,9500,3,1,765,40,2025,5,1,2027,6,3,2027,7,1,False,False,False,False,False,False,False,True,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,3,1,404,40,2024,9,0,2025,10,5,2025,12,3,False,False,False,False,False,False,False,False,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,6500,3,2,102,40,2024,3,1,2024,6,5,2024,7,3,False,False,False,False,False,False,False,True,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,8500,4,0,305,40,2024,7,6,2025,5,3,2025,6,1,False,False,False,False,False,False,False,False,False,True,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,9500,3,1,703,40,2025,3,3,2027,2,6,2027,4,4,False,False,False,False,False,False,True,False,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,7500,3,1,255,40,2024,6,2,2025,2,5,2025,4,3,False,False,False,False,True,False,False,False,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,8000,4,0,752,40,2025,4,0,2027,5,3,2027,6,1,False,False,False,False,False,False,False,False,False,False,0.95,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,8000,3,1,1039,40,2025,10,2,2028,9,5,2028,10,3,False,False,False,False,True,False,False,False,False,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,7000,4,0,467,40,2024,10,5,2026,2,3,2026,3,1,False,False,False,False,False,True,False,False,False,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,3,1,628,40,2025,2,4,2026,10,2,2026,12,0,False,False,False,False,False,False,False,False,True,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,8500,3,1,952,40,2025,9,2,2028,4,2,2028,5,0,False,False,False,False,True,False,False,False,False,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,7500,4,2,964,40,2025,9,3,2028,5,1,2028,6,6,False,False,False,False,False,False,True,False,False,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,9500,4,0,417,40,2024,9,1,2025,11,5,2025,12,3,False,False,False,False,False,False,False,True,False,False,0.945,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,7500,4,0,441,41,2024,10,3,2025,12,3,2026,2,2,False,False,False,False,False,False,True,False,False,False,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,6500,4,0,217,40,2024,5,6,2024,12,6,2025,1,4,False,False,False,False,False,False,False,False,False,True,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,3,1,653,40,2025,2,6,2026,12,1,2027,1,6,False,False,False,False,False,False,False,False,False,True,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+950,7500,3,2,152,40,2024,4,5,2024,9,3,2024,10,1,False,False,False,False,False,True,False,False,False,False,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,7000,4,0,529,40,2024,12,3,2026,5,0,2026,6,5,False,False,False,False,False,False,True,False,False,False,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,6500,3,1,293,40,2024,7,5,2025,4,4,2025,6,2,False,False,False,False,False,True,False,False,False,False,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,9500,4,0,554,40,2024,12,5,2026,6,6,2026,8,4,False,False,False,False,False,True,False,False,False,False,0.94,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8500,4,2,827,40,2025,6,6,2027,9,0,2027,10,5,False,False,False,False,False,False,False,False,False,True,0.935,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,9500,3,1,901,40,2025,8,5,2028,1,3,2028,2,1,False,False,False,False,False,True,False,False,False,False,0.935,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,7000,3,1,789,40,2025,5,3,2027,7,1,2027,8,6,False,False,False,False,False,False,True,False,False,False,0.935,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,7500,4,0,1088,40,2025,11,6,2028,11,2,2029,1,0,False,False,False,False,False,False,False,False,False,True,0.93,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,9000,4,0,777,40,2025,5,2,2027,6,2,2027,8,0,False,False,False,False,True,False,False,False,False,False,0.925,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,5000,4,2,164,40,2024,4,6,2024,9,2,2024,11,0,False,False,False,False,False,False,False,False,False,True,0.925,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,7000,4,0,579,40,2025,1,0,2026,8,5,2026,9,3,False,False,False,False,False,False,False,False,False,False,0.925,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8000,4,2,1163,40,2026,1,5,2029,3,6,2029,5,4,False,False,False,False,False,True,False,False,False,False,0.92,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,9500,5,0,281,40,2024,6,4,2025,4,5,2025,5,3,False,False,False,False,False,False,False,False,True,False,0.92,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,7000,4,2,1051,40,2025,11,3,2028,9,4,2028,11,2,False,False,False,False,False,False,True,False,False,False,0.92,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,7500,5,0,728,40,2025,4,5,2027,4,5,2027,5,3,False,False,False,False,False,True,False,False,False,False,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,7500,4,0,1138,40,2026,1,3,2029,2,0,2029,3,5,False,False,False,False,False,False,True,False,False,False,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,9000,3,1,1151,40,2026,1,4,2029,3,0,2029,4,5,False,False,False,False,False,False,False,False,True,False,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,9000,4,0,641,40,2025,2,5,2026,11,2,2026,12,0,False,False,False,False,False,True,False,False,False,False,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,9500,4,0,864,40,2025,7,2,2027,11,5,2027,12,3,False,False,False,False,True,False,False,False,False,False,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,8000,4,0,914,40,2025,8,6,2028,2,3,2028,3,1,False,False,False,False,False,False,False,False,False,True,0.915,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,6500,3,2,25,41,2024,1,6,2024,2,3,2024,3,2,False,False,False,False,False,False,False,False,False,True,0.91,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,9500,4,0,1026,40,2025,10,1,2028,8,5,2028,9,3,False,False,False,False,False,False,False,True,False,False,0.905,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,7500,3,1,927,40,2025,8,0,2028,3,3,2028,4,1,False,False,False,False,False,False,False,False,False,False,0.905,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,9000,5,0,616,40,2025,1,3,2026,10,3,2026,11,1,False,False,False,False,False,False,True,False,False,False,0.905,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+950,7000,3,1,50,41,2024,1,1,2024,3,2,2024,4,1,False,False,False,False,False,False,False,True,False,False,0.905,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,9500,4,0,243,40,2024,6,1,2025,2,6,2025,3,4,False,False,False,False,False,False,False,True,False,False,0.905,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,7000,3,1,678,40,2025,3,1,2027,1,0,2027,2,5,False,False,False,False,False,False,False,True,False,False,0.9,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,9000,4,1,318,40,2024,7,0,2025,6,3,2025,7,1,False,False,False,False,False,False,False,False,False,False,0.9,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,9000,3,1,454,40,2024,10,4,2026,1,3,2026,2,1,False,False,False,False,False,False,False,False,True,False,0.9,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,6000,4,0,665,41,2025,3,0,2026,12,0,2027,2,6,False,False,False,False,False,False,False,False,False,False,0.9,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,9000,4,0,939,40,2025,8,1,2028,3,2,2028,5,0,False,False,False,False,False,False,False,True,False,False,0.895,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,9000,5,0,392,40,2024,9,6,2025,10,6,2025,11,4,False,False,False,False,False,False,False,False,False,True,0.895,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,9500,3,1,1100,40,2025,12,0,2028,12,1,2029,1,6,False,False,False,False,False,False,False,False,False,False,0.89,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,7000,4,0,888,41,2025,7,4,2027,12,3,2028,2,2,False,False,False,False,False,False,False,False,True,False,0.89,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,8000,4,0,691,40,2025,3,2,2027,2,0,2027,3,5,False,False,False,False,True,False,False,False,False,False,0.89,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,7000,4,1,342,40,2024,8,2,2025,7,1,2025,8,6,False,False,False,False,True,False,False,False,False,False,0.885,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,7500,3,1,367,40,2024,8,4,2025,8,0,2025,10,5,False,False,False,False,False,False,False,False,True,False,0.885,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,9000,4,0,1113,40,2025,12,1,2029,1,1,2029,2,6,False,False,False,False,False,False,False,True,False,False,0.88,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,6500,4,2,604,40,2025,1,2,2026,9,4,2026,10,2,False,False,False,False,True,False,False,False,False,False,0.88,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,7500,5,0,114,40,2024,3,2,2024,7,4,2024,8,2,False,False,False,False,True,False,False,False,False,False,0.88,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,7500,5,0,505,40,2024,11,1,2026,4,2,2026,5,0,False,False,False,False,False,False,False,True,False,False,0.875,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+960,8000,4,2,380,40,2024,8,5,2025,9,0,2025,10,5,False,False,False,False,False,True,False,False,False,False,0.875,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,4,1,78,40,2024,2,5,2024,5,6,2024,6,4,False,False,False,False,False,False,False,False,False,True,0.875,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,8000,4,0,330,40,2024,7,1,2025,6,2,2025,8,0,False,False,False,False,False,False,False,True,False,False,0.875,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,9000,3,1,814,40,2025,6,5,2027,8,0,2027,10,5,False,False,False,False,False,True,False,False,False,False,0.87,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,6500,4,0,1001,40,2025,10,6,2028,7,6,2028,8,4,False,False,False,False,False,False,False,False,False,True,0.86,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+800,5500,4,1,37,42,2024,1,0,2024,2,2,2024,4,2,False,False,False,False,False,False,False,False,False,False,0.86,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+900,9500,4,0,66,40,2024,2,4,2024,4,0,2024,5,5,False,False,False,False,False,True,False,False,False,False,0.85,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,7000,5,0,205,40,2024,5,5,2024,12,0,2025,1,5,False,False,False,False,False,True,False,False,False,False,0.84,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,3,1,876,40,2025,7,3,2027,12,4,2028,1,2,False,False,False,False,False,False,True,False,False,False,0.835,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+810,8000,3,1,591,40,2025,1,1,2026,8,4,2026,10,2,False,False,False,False,False,False,False,True,False,False,0.825,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,9500,4,1,193,40,2024,5,4,2024,11,1,2024,12,6,False,False,False,False,False,False,False,False,True,False,0.815,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,5000,4,2,90,40,2024,2,6,2024,5,5,2024,7,3,False,False,False,False,False,False,False,False,False,False,0.775,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+860,8000,4,0,139,40,2024,3,4,2024,8,3,2024,9,1,False,False,False,False,False,False,False,False,True,False,0.77,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+930,8000,4,1,429,40,2024,10,2,2025,12,4,2026,1,2,False,False,False,False,True,False,False,False,False,False,0.77,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,8000,4,0,355,40,2024,8,3,2025,8,1,2025,9,6,False,False,False,False,False,False,True,False,False,False,0.765,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+910,8500,4,0,802,40,2025,5,4,2027,8,1,2027,9,6,False,False,False,False,False,False,False,False,True,False,0.745,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+850,9500,5,0,976,40,2025,9,4,2028,5,0,2028,7,5,False,False,False,False,False,False,False,False,True,False,0.74,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,9000,5,0,1063,40,2025,11,4,2028,10,3,2028,11,1,False,False,False,False,False,False,False,False,True,False,0.74,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+870,8500,4,1,230,40,2024,5,0,2025,1,6,2025,2,4,False,False,False,False,False,False,False,False,False,False,0.73,High,Expedite shipment and escalate supplier,P1,Supply Chain Manager,12
+830,9500,5,0,839,40,2025,6,0,2027,10,6,2027,11,4,False,False,False,False,False,False,False,False,False,False,0.695,Medium,Monitor order and confirm dispatch timeline,P2,Operations Analyst,24
+960,6000,4,1,180,40,2024,4,3,2024,10,1,2024,12,6,False,False,False,False,False,False,True,False,False,False,0.63,Medium,Monitor order and confirm dispatch timeline,P2,Operations Analyst,24
+920,8500,5,0,12,38,2024,1,5,2024,1,3,2024,2,6,False,True,False,False,True,False,False,False,False,False,0.28,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,14000,3,1,70,40,2024,2,0,2024,4,0,2024,6,5,False,True,False,False,False,False,False,True,False,False,0.205,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,9500,4,0,27,42,2024,1,1,2024,2,0,2024,3,0,False,True,False,False,False,False,False,False,False,False,0.185,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7000,3,1,87,40,2024,2,4,2024,5,0,2024,6,5,False,True,False,False,False,True,False,False,False,False,0.17,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,17500,3,2,32,42,2024,1,4,2024,2,1,2024,4,1,False,False,False,True,False,False,False,False,True,False,0.17,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9000,4,1,435,40,2024,10,6,2025,12,0,2026,1,5,False,False,True,False,False,False,False,False,False,True,0.165,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,7500,5,0,1157,40,2026,1,1,2029,3,3,2029,4,1,False,False,True,False,False,False,False,True,False,False,0.165,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,8500,4,1,172,40,2024,4,4,2024,10,1,2024,11,6,False,True,False,False,False,False,False,False,True,False,0.16,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7500,4,1,64,40,2024,2,3,2024,4,4,2024,5,2,False,True,False,False,False,False,False,False,True,False,0.155,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9000,3,1,211,40,2024,5,2,2024,12,3,2025,1,1,False,False,True,False,True,False,False,False,False,False,0.155,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,8500,4,1,1144,40,2026,1,0,2029,2,3,2029,4,1,False,False,True,False,False,False,False,False,False,False,0.15,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,10000,3,1,247,40,2024,6,3,2025,2,5,2025,3,3,False,True,False,False,False,False,True,False,False,False,0.145,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,6000,5,0,72,40,2024,2,1,2024,4,3,2024,6,1,False,False,True,False,True,False,False,False,False,False,0.14,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+790,7500,3,1,14,37,2024,1,0,2024,1,0,2024,2,2,False,False,False,True,False,False,False,False,False,False,0.14,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,9500,5,0,374,40,2024,8,1,2025,9,4,2025,10,2,False,False,True,False,False,False,False,True,False,False,0.125,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,8000,4,1,610,40,2025,1,6,2026,9,0,2026,11,5,False,False,True,False,False,False,False,False,False,True,0.125,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,5500,3,1,120,40,2024,3,6,2024,7,0,2024,8,5,False,False,True,False,False,False,False,False,False,True,0.12,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,7500,5,0,821,40,2025,6,2,2027,9,4,2027,10,2,False,False,True,False,True,False,False,False,False,False,0.095,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,7000,5,0,486,40,2024,11,3,2026,3,6,2026,4,4,False,False,True,False,False,False,True,False,False,False,0.095,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,9000,4,1,1170,40,2026,1,2,2029,4,3,2029,5,1,False,False,True,False,True,False,False,False,False,False,0.09,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,9500,5,0,1045,40,2025,11,6,2028,9,1,2028,10,6,False,False,True,False,False,False,False,False,False,True,0.09,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,8500,4,0,734,40,2025,4,2,2027,4,1,2027,5,6,False,False,True,False,True,False,False,False,False,False,0.08,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,9000,4,1,498,40,2024,11,4,2026,3,5,2026,5,3,False,False,True,False,False,False,False,False,True,False,0.075,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,7500,4,1,1119,40,2025,12,5,2029,1,4,2029,2,2,False,False,True,False,False,True,False,False,False,False,0.065,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,8000,4,1,108,40,2024,3,5,2024,6,1,2024,8,6,False,False,True,False,False,True,False,False,False,False,0.06,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,12500,3,1,1005,40,2025,10,1,2028,7,5,2028,8,3,False,True,False,False,False,False,False,True,False,False,0.06,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,9500,4,1,535,40,2024,12,0,2026,5,3,2026,7,1,False,False,True,False,False,False,False,False,False,False,0.06,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,9500,5,0,598,40,2025,1,5,2026,9,1,2026,10,6,False,False,True,False,False,True,False,False,False,False,0.06,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,10000,5,0,105,40,2024,3,3,2024,6,3,2024,7,1,False,True,False,False,False,False,True,False,False,False,0.06,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,7500,4,0,622,40,2025,2,0,2026,10,6,2026,11,4,False,False,True,False,False,False,False,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,6000,5,0,145,40,2024,4,1,2024,8,6,2024,10,4,False,False,True,False,False,False,False,True,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,7500,4,0,398,40,2024,9,3,2025,10,2,2025,11,0,False,False,True,False,False,False,True,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,1,348,41,2024,8,6,2025,7,4,2025,9,3,False,False,True,False,False,False,False,False,False,True,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,8000,5,0,31,41,2024,1,3,2024,2,6,2024,3,5,False,False,True,False,True,False,False,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,7500,4,1,187,40,2024,4,0,2024,11,5,2024,12,3,False,False,True,False,False,False,False,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,5,0,158,40,2024,4,2,2024,9,6,2024,10,4,False,False,True,False,True,False,False,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,9500,4,1,18,42,2024,1,2,2024,1,6,2024,3,6,False,False,True,False,False,False,False,True,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,6000,4,0,511,40,2024,11,5,2026,4,5,2026,5,3,False,False,True,False,False,True,False,False,False,False,0.055,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17000,3,1,729,40,2025,4,6,2027,4,0,2027,5,5,False,False,False,True,False,False,False,False,False,True,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9000,4,0,1132,40,2025,12,6,2029,2,4,2029,3,2,False,False,True,False,False,False,False,False,False,True,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,1,995,40,2025,10,2,2028,6,3,2028,8,1,False,False,True,False,True,False,False,False,False,False,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,0,882,40,2025,7,0,2027,12,0,2028,1,5,False,False,True,False,False,False,False,False,False,False,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,8000,4,0,287,40,2024,7,1,2025,4,1,2025,5,6,False,False,True,False,False,False,False,True,False,False,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7000,4,0,983,40,2025,9,1,2028,6,4,2028,7,2,False,False,True,False,False,False,False,True,False,False,0.05,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,9000,5,0,958,40,2025,9,6,2028,4,5,2028,6,3,False,False,True,False,False,False,False,False,False,True,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,14000,3,1,892,40,2025,7,6,2028,1,2,2028,2,0,False,True,False,False,False,False,False,False,False,True,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6500,4,0,548,40,2024,12,1,2026,6,3,2026,7,1,False,False,True,False,False,False,False,True,False,False,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,6500,4,1,697,40,2025,3,6,2027,2,3,2027,3,1,False,False,True,False,False,False,False,False,False,True,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,9500,4,0,96,40,2024,3,4,2024,6,2,2024,7,0,False,False,True,False,False,False,False,False,True,False,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6000,4,1,324,40,2024,7,4,2025,6,6,2025,7,4,False,False,True,False,False,False,False,False,True,False,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,8500,4,0,572,41,2025,1,3,2026,7,1,2026,9,0,False,False,True,False,False,False,True,False,False,False,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,9000,4,1,585,40,2025,1,4,2026,8,1,2026,9,6,False,False,True,False,False,False,False,False,True,False,0.045,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6500,4,1,133,40,2024,3,0,2024,8,0,2024,9,5,False,False,True,False,False,False,False,False,False,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6000,4,0,1106,40,2025,12,4,2028,12,4,2029,1,2,False,False,True,False,False,False,False,False,True,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7500,4,1,311,40,2024,7,3,2025,5,6,2025,7,4,False,False,True,False,False,False,True,False,False,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,8000,4,1,199,40,2024,5,1,2024,11,4,2025,1,2,False,False,True,False,False,False,False,True,False,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,7000,4,1,236,40,2024,5,4,2025,1,2,2025,3,0,False,False,True,False,False,False,False,False,True,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,6500,4,1,746,40,2025,4,3,2027,5,0,2027,6,5,False,False,True,False,False,False,True,False,False,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,8500,4,1,56,41,2024,2,5,2024,3,5,2024,5,4,False,False,True,False,False,False,False,False,False,True,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,10500,4,1,33,43,2024,1,5,2024,2,3,2024,4,4,False,True,False,False,False,False,False,False,False,True,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,9000,4,1,44,41,2024,1,4,2024,3,6,2024,4,5,False,False,True,False,False,False,False,False,True,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,7000,4,0,845,40,2025,6,4,2027,10,2,2027,11,0,False,False,True,False,False,False,False,False,True,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,8000,4,0,1020,40,2025,10,4,2028,8,2,2028,9,0,False,False,True,False,False,False,False,False,True,False,0.04,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,14500,3,1,668,40,2025,3,2,2027,1,5,2027,2,3,False,True,False,False,True,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,6000,4,1,361,40,2024,8,0,2025,8,4,2025,9,2,False,False,True,False,False,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,8500,4,1,473,40,2024,10,2,2026,2,6,2026,3,4,False,False,True,False,True,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7500,4,1,647,40,2025,2,2,2026,11,5,2027,1,3,False,False,True,False,True,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,13000,3,1,943,40,2025,8,3,2028,3,1,2028,5,6,False,True,False,False,False,False,True,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,7000,5,0,709,40,2025,3,0,2027,3,2,2027,4,0,False,False,True,False,False,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,17500,3,1,909,40,2025,8,3,2028,2,2,2028,3,0,False,False,False,True,False,False,True,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,8000,4,1,895,40,2025,7,1,2028,1,0,2028,2,5,False,False,True,False,False,False,False,True,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,8500,4,1,1057,40,2025,11,0,2028,10,0,2028,11,5,False,False,True,False,False,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,14500,3,1,780,40,2025,5,4,2027,7,0,2027,8,5,False,True,False,False,False,False,False,False,True,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,10000,4,0,82,40,2024,2,1,2024,5,6,2024,6,4,True,False,False,False,True,False,False,False,False,False,0.035,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17000,3,1,283,40,2024,6,5,2025,4,1,2025,5,6,False,False,False,True,False,True,False,False,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12500,3,1,867,40,2025,7,4,2027,11,3,2028,1,1,False,True,False,False,False,False,False,False,True,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,6000,4,1,411,40,2024,9,4,2025,11,2,2025,12,0,False,False,True,False,False,False,False,False,True,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,13000,3,2,178,40,2024,4,1,2024,10,4,2024,11,2,False,True,False,False,False,False,False,True,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,8000,4,1,783,40,2025,5,6,2027,7,5,2027,8,3,False,False,True,False,False,False,False,False,False,True,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23000,5,0,222,41,2024,5,2,2024,12,0,2025,2,6,True,False,False,False,True,False,False,False,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,6500,4,1,448,40,2024,10,0,2026,1,0,2026,2,5,False,False,True,False,False,False,False,False,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,7000,4,0,1069,40,2025,11,1,2028,10,6,2028,12,4,False,False,True,False,False,False,False,True,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,6000,5,0,249,40,2024,6,5,2025,2,2,2025,3,0,False,False,True,False,False,True,False,False,False,False,0.03,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,10500,5,0,414,40,2024,9,6,2025,11,0,2025,12,5,False,True,False,False,False,False,False,False,False,True,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,8500,4,1,672,40,2025,3,4,2027,1,4,2027,2,2,False,False,True,False,False,False,False,False,True,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,3,1,195,40,2024,5,5,2024,11,4,2024,12,2,False,False,False,True,False,True,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,20500,4,0,198,40,2024,5,0,2024,11,2,2024,12,0,True,False,False,False,False,False,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,13000,3,1,693,40,2025,3,4,2027,2,4,2027,3,2,False,True,False,False,False,False,False,False,True,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,6500,4,1,1032,40,2025,10,5,2028,8,1,2028,10,6,False,False,True,False,False,True,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,8000,4,1,523,40,2024,12,6,2026,5,4,2026,6,2,False,False,True,False,False,False,False,False,False,True,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,22000,4,0,1155,40,2026,1,0,2029,3,0,2029,4,5,True,False,False,False,False,False,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,8000,4,0,460,40,2024,10,1,2026,1,6,2026,3,4,False,False,True,False,False,False,False,True,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,11000,3,1,556,40,2024,12,0,2026,7,3,2026,8,1,False,True,False,False,False,False,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22000,4,1,29,42,2024,1,2,2024,2,3,2024,3,3,True,False,False,False,False,False,False,True,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,24000,5,0,881,40,2025,7,6,2027,12,5,2028,1,3,True,False,False,False,False,False,False,False,False,True,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7000,4,1,423,40,2024,9,5,2025,11,1,2026,1,6,False,False,True,False,False,True,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,6500,4,1,386,40,2024,9,2,2025,9,3,2025,11,1,False,False,True,False,True,False,False,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,8000,4,1,1094,40,2025,12,3,2028,12,5,2029,1,3,False,False,True,False,False,False,True,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,9000,4,1,920,40,2025,8,3,2028,2,6,2028,3,4,False,False,True,False,False,False,True,False,False,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,1173,40,2026,1,4,2029,4,1,2029,5,6,False,True,False,False,False,False,False,False,True,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19500,3,1,487,40,2024,11,4,2026,3,1,2026,4,6,False,False,False,True,False,False,False,False,True,False,0.025,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18000,3,2,997,40,2025,10,3,2028,6,6,2028,8,4,False,False,False,True,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,22500,5,0,695,40,2025,3,5,2027,2,0,2027,3,5,True,False,False,False,False,True,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20500,3,1,1168,40,2026,1,1,2029,4,0,2029,5,5,True,False,False,False,False,False,False,True,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23500,3,1,496,40,2024,11,3,2026,3,2,2026,5,0,True,False,False,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,13500,3,1,531,40,2024,12,5,2026,5,4,2026,7,2,False,True,False,False,False,True,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,22000,3,1,720,40,2025,4,0,2027,3,6,2027,5,4,True,False,False,False,False,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,13500,3,1,1117,40,2025,12,3,2029,1,0,2029,2,5,False,True,False,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,6000,4,1,858,40,2025,7,5,2027,11,2,2027,12,0,False,False,True,False,False,True,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7000,4,1,870,40,2025,7,6,2027,11,1,2028,1,6,False,False,True,False,False,False,False,False,False,True,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,12500,4,2,191,40,2024,5,2,2024,11,4,2024,12,2,False,True,False,False,True,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,18000,5,0,189,40,2024,4,1,2024,11,1,2024,12,6,False,False,False,True,False,False,False,True,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,24000,3,3,43,41,2024,1,3,2024,3,4,2024,4,3,True,False,False,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,25000,3,2,229,40,2024,5,6,2025,1,4,2025,2,2,True,False,False,False,False,False,False,False,False,True,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,7000,4,1,758,40,2025,5,4,2027,5,6,2027,7,4,False,False,True,False,False,False,False,False,True,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,20000,5,0,49,41,2024,1,0,2024,3,0,2024,4,6,True,False,False,False,False,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,3,2,747,40,2025,4,4,2027,5,2,2027,6,0,False,False,False,True,False,False,False,False,True,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19500,4,0,1146,40,2026,1,1,2029,2,6,2029,4,4,False,False,False,True,False,False,False,True,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,19500,3,1,462,40,2024,10,2,2026,1,2,2026,3,0,False,False,False,True,True,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,7000,4,1,560,40,2024,12,2,2026,7,2,2026,8,0,False,False,True,False,True,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,9000,4,1,721,40,2025,4,1,2027,3,1,2027,5,6,False,False,True,False,False,False,False,True,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,19000,3,1,1108,41,2025,12,5,2028,12,0,2029,2,6,False,False,False,True,False,True,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,6000,4,1,808,40,2025,6,1,2027,8,4,2027,9,2,False,False,True,False,False,False,False,True,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,14000,3,1,1030,40,2025,10,3,2028,8,4,2028,9,2,False,True,False,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,14500,3,1,581,40,2025,1,2,2026,8,2,2026,9,0,False,True,False,False,True,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,6000,4,1,833,40,2025,6,3,2027,9,3,2027,11,1,False,False,True,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,14000,4,2,1073,40,2025,11,3,2028,10,5,2028,12,3,False,True,False,False,False,False,True,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,15000,5,0,562,40,2024,12,4,2026,7,6,2026,8,4,False,True,False,False,False,False,False,False,True,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,0,795,41,2025,5,0,2027,7,4,2027,9,3,False,False,True,False,False,False,False,False,False,False,0.02,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10000,5,0,476,40,2024,11,4,2026,2,4,2026,4,2,False,True,False,False,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23500,5,0,433,40,2024,10,5,2025,12,4,2026,1,2,True,False,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,12500,4,1,10,34,2024,1,4,2024,1,0,2024,2,6,False,False,False,True,False,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17000,3,1,617,40,2025,1,4,2026,10,5,2026,11,3,False,False,False,True,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,24000,5,0,620,40,2025,2,6,2026,10,3,2026,11,1,True,False,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,1172,40,2026,1,3,2029,4,6,2029,5,4,False,False,False,True,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14000,4,0,1166,40,2026,1,0,2029,3,4,2029,5,2,False,True,False,False,False,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,20000,4,2,1149,40,2026,1,3,2029,3,4,2029,4,2,True,False,False,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,12000,3,1,1142,40,2026,1,5,2029,2,6,2029,3,4,False,True,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23000,5,0,1105,40,2025,12,3,2028,12,2,2029,1,0,True,False,False,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,17500,3,2,1084,40,2025,11,3,2028,11,2,2028,12,0,False,False,False,True,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,19000,4,0,1009,40,2025,10,4,2028,7,5,2028,8,3,False,False,False,True,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,7000,4,1,1007,40,2025,10,3,2028,7,2,2028,8,0,False,False,True,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,7500,4,1,946,40,2025,8,5,2028,4,6,2028,5,4,False,False,True,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,8500,4,0,933,40,2025,8,4,2028,3,6,2028,4,4,False,False,True,False,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,13000,5,0,923,40,2025,8,5,2028,2,4,2028,4,2,False,True,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,18500,3,1,822,40,2025,6,3,2027,9,6,2027,10,4,False,False,False,True,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6000,4,0,771,40,2025,5,5,2027,6,6,2027,7,4,False,False,True,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19500,3,1,710,40,2025,4,1,2027,3,4,2027,4,2,False,False,False,True,False,False,False,True,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,20000,4,0,698,40,2025,3,0,2027,2,5,2027,4,3,False,False,False,True,False,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,0,684,40,2025,3,5,2027,1,3,2027,3,1,False,False,True,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17500,3,1,660,40,2025,2,4,2026,12,6,2027,1,4,False,False,False,True,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,9500,4,0,659,40,2025,2,3,2026,12,4,2027,1,2,False,False,True,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,4,0,631,40,2025,2,6,2026,11,0,2026,12,5,False,True,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,22000,5,0,826,40,2025,6,5,2027,9,5,2027,10,3,True,False,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,21000,4,0,1174,40,2026,1,5,2029,4,3,2029,5,1,True,False,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20500,4,2,137,40,2024,3,3,2024,8,0,2024,9,5,True,False,False,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,25000,4,1,291,40,2024,7,4,2025,4,1,2025,6,6,True,False,False,False,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,25000,5,0,118,40,2024,3,5,2024,7,4,2024,8,2,True,False,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17500,5,0,122,40,2024,3,0,2024,7,3,2024,8,1,False,False,False,True,False,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,15500,4,0,104,40,2024,3,2,2024,6,1,2024,7,6,False,False,False,True,True,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,12000,3,1,333,40,2024,8,3,2025,6,0,2025,8,5,False,True,False,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,141,40,2024,3,5,2024,8,6,2024,9,4,False,False,False,True,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,12000,3,1,142,40,2024,3,6,2024,8,1,2024,9,6,False,True,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,15500,5,0,81,40,2024,2,0,2024,5,4,2024,6,2,False,True,False,False,False,False,False,True,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,13000,3,2,80,40,2024,2,6,2024,5,2,2024,6,0,False,False,False,True,False,False,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,22000,3,3,112,40,2024,3,1,2024,7,1,2024,8,6,True,False,False,False,False,False,False,True,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,21500,4,1,303,40,2024,7,5,2025,5,0,2025,6,5,True,False,False,False,False,True,False,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23000,3,1,185,40,2024,4,6,2024,10,2,2024,12,0,True,False,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,14000,5,0,197,40,2024,5,6,2024,11,0,2024,12,5,False,True,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,10000,4,1,203,40,2024,5,3,2024,11,3,2025,1,1,False,True,False,False,False,False,True,False,False,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,10000,5,0,174,40,2024,4,6,2024,10,5,2024,11,3,False,False,True,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,11000,4,0,21,42,2024,1,4,2024,2,4,2024,3,4,True,False,False,False,False,False,False,False,True,False,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,21000,3,1,272,40,2024,6,6,2025,3,5,2025,5,3,True,False,False,False,False,False,False,False,False,True,0.015,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18500,4,0,648,40,2025,2,3,2026,11,0,2027,1,5,False,False,False,True,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,5,0,567,40,2024,12,0,2026,7,0,2026,8,5,False,False,False,True,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13500,5,0,898,40,2025,7,3,2028,1,5,2028,2,3,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+960,6500,4,0,907,40,2025,8,2,2028,1,6,2028,3,4,False,False,True,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,24000,4,2,913,40,2025,8,5,2028,2,1,2028,3,6,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19500,5,0,915,40,2025,8,0,2028,2,5,2028,3,3,False,False,False,True,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,14500,3,1,917,40,2025,8,1,2028,2,1,2028,3,6,False,True,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,15000,5,0,154,40,2024,4,6,2024,9,6,2024,10,4,False,False,False,True,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,929,40,2025,8,1,2028,3,6,2028,4,4,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19500,3,1,935,40,2025,8,5,2028,3,2,2028,4,0,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,20000,4,2,938,40,2025,8,0,2028,3,0,2028,4,5,True,False,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20500,4,2,328,40,2024,7,0,2025,6,6,2025,8,4,True,False,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,11000,5,0,950,40,2025,9,0,2028,4,5,2028,5,3,False,True,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,15000,5,0,637,40,2025,2,3,2026,11,3,2026,12,1,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,24000,4,2,951,40,2025,9,1,2028,4,0,2028,5,5,True,False,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13000,5,0,674,40,2025,3,6,2027,1,1,2027,2,6,False,True,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,10000,4,1,962,40,2025,9,1,2028,4,4,2028,6,2,False,True,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18500,3,1,135,40,2024,3,1,2024,8,3,2024,9,1,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23500,3,1,969,40,2025,9,6,2028,5,2,2028,6,0,True,False,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,6000,4,1,970,40,2025,9,0,2028,5,4,2028,6,2,False,False,True,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,3,1,978,40,2025,9,5,2028,5,3,2028,7,1,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18000,5,0,716,40,2025,4,5,2027,3,0,2027,5,5,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11000,4,0,519,40,2024,11,4,2026,5,5,2026,6,3,False,True,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,19000,3,1,685,40,2025,3,6,2027,1,5,2027,3,3,False,False,False,True,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,9000,5,0,262,40,2024,6,6,2025,3,2,2025,4,0,False,False,True,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,14500,4,1,116,40,2024,3,3,2024,7,0,2024,8,5,False,False,False,True,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,21000,4,1,739,40,2025,4,5,2027,4,2,2027,6,0,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23500,5,0,162,40,2024,4,5,2024,9,6,2024,11,4,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11500,5,0,575,40,2025,1,5,2026,8,6,2026,9,4,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,5,0,661,40,2025,3,5,2026,12,1,2027,1,6,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,6000,4,1,635,40,2025,2,1,2026,11,6,2026,12,4,False,False,True,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,13500,3,1,805,40,2025,6,6,2027,8,6,2027,9,4,False,True,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,19000,4,0,226,40,2024,5,4,2025,1,6,2025,2,4,False,False,False,True,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,23500,4,2,813,40,2025,6,4,2027,8,5,2027,10,3,True,False,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,22500,3,2,204,40,2024,5,4,2024,11,5,2025,1,3,True,False,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12000,3,1,755,40,2025,4,2,2027,5,1,2027,7,6,False,True,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,10000,4,1,824,40,2025,6,4,2027,9,2,2027,10,0,False,True,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,15000,5,0,749,40,2025,4,5,2027,5,5,2027,6,3,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,21500,5,0,657,40,2025,2,2,2026,12,1,2027,1,6,True,False,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,614,40,2025,1,2,2026,10,0,2026,11,5,True,False,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,611,40,2025,1,0,2026,9,2,2026,11,0,False,False,False,True,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,24500,5,0,844,40,2025,6,3,2027,10,0,2027,11,5,True,False,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11000,5,0,184,40,2024,4,5,2024,10,0,2024,12,5,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,15000,4,0,182,40,2024,4,4,2024,10,4,2024,12,2,False,False,False,True,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,13000,5,0,302,40,2024,7,4,2025,5,5,2025,6,3,False,True,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,19500,5,0,853,40,2025,7,2,2027,11,1,2027,12,6,False,False,False,True,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22000,5,0,235,40,2024,5,3,2025,1,0,2025,3,5,True,False,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,11500,4,1,594,40,2025,1,3,2026,9,2,2026,10,0,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,10000,5,0,861,40,2025,7,0,2027,11,0,2027,12,5,False,True,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,18000,3,1,238,40,2024,6,5,2025,1,5,2025,3,3,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17500,5,0,170,40,2024,4,3,2024,10,5,2024,11,3,False,False,False,True,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18500,4,0,313,40,2024,7,4,2025,5,2,2025,7,0,False,False,False,True,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19500,5,0,580,40,2025,1,1,2026,8,0,2026,9,5,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,18000,5,0,877,40,2025,7,4,2027,12,6,2028,1,4,False,False,False,True,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,24000,4,2,577,40,2025,1,6,2026,8,2,2026,9,0,True,False,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,14000,5,0,1011,40,2025,10,5,2028,7,1,2028,8,6,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,4,2,216,40,2024,5,5,2024,12,4,2025,1,2,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,388,40,2024,9,3,2025,9,6,2025,11,4,False,False,False,True,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,25000,5,0,88,40,2024,2,5,2024,5,2,2024,7,0,True,False,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,13000,3,1,358,40,2024,8,5,2025,8,6,2025,9,4,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,19000,5,0,1165,40,2026,1,6,2029,3,2,2029,5,0,False,False,False,True,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,9000,4,1,1082,40,2025,11,2,2028,11,6,2028,12,4,False,False,True,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,1,84,40,2024,2,2,2024,5,2,2024,6,0,False,False,True,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,13000,3,1,470,40,2024,10,0,2026,2,1,2026,3,6,False,True,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23500,5,0,1161,40,2026,1,4,2029,3,3,2029,5,1,True,False,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,14500,4,1,58,40,2024,2,6,2024,4,1,2024,5,6,False,False,False,True,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,12000,5,0,1086,40,2025,11,4,2028,11,5,2028,12,3,False,True,False,False,False,False,False,False,True,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11500,4,1,1160,40,2026,1,3,2029,3,1,2029,4,6,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,21500,3,1,384,40,2024,9,1,2025,9,0,2025,11,5,True,False,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,17000,3,1,1159,40,2026,1,2,2029,3,6,2029,4,4,False,False,False,True,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,19000,5,0,35,43,2024,1,6,2024,2,6,2024,4,0,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,14000,3,1,1092,40,2025,12,1,2028,11,1,2029,1,6,False,True,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13000,5,0,1098,40,2025,12,5,2028,12,4,2029,1,2,False,True,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12500,3,1,420,40,2024,9,3,2025,11,3,2025,12,1,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,20000,4,0,450,40,2024,10,1,2026,1,3,2026,2,1,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,19500,4,2,74,40,2024,2,2,2024,4,6,2024,6,4,False,False,False,True,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12000,4,1,69,40,2024,2,6,2024,4,5,2024,5,3,True,False,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,21500,3,2,62,40,2024,2,1,2024,4,0,2024,5,5,True,False,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,22000,4,2,439,40,2024,10,2,2025,12,0,2026,1,5,True,False,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17000,4,0,1121,40,2025,12,6,2029,1,0,2029,2,5,False,False,False,True,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23000,5,0,1143,40,2026,1,6,2029,2,1,2029,4,6,True,False,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,21000,5,0,1130,40,2025,12,5,2029,1,1,2029,3,6,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,19000,5,0,406,40,2024,9,1,2025,10,1,2025,12,6,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,18000,3,1,1134,40,2025,12,0,2029,2,0,2029,3,5,False,False,False,True,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,25000,4,2,1037,40,2025,10,1,2028,8,2,2028,10,0,True,False,False,False,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,390,40,2024,9,5,2025,10,3,2025,11,1,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18000,4,1,92,40,2024,2,0,2024,5,1,2024,7,6,False,False,False,True,False,False,False,True,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,24500,5,0,346,40,2024,8,5,2025,7,1,2025,8,6,True,False,False,False,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23000,4,2,1025,40,2025,10,0,2028,8,3,2028,9,1,True,False,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,23500,5,0,100,40,2024,3,0,2024,6,2,2024,7,0,True,False,False,False,False,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,21500,5,0,1050,40,2025,11,2,2028,9,2,2028,10,0,True,False,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,15000,5,0,16,40,2024,1,1,2024,1,3,2024,3,1,False,True,False,False,False,False,True,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,17000,5,0,98,40,2024,3,5,2024,6,5,2024,7,3,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23000,3,1,1056,40,2025,11,6,2028,9,5,2028,11,3,True,False,False,False,False,False,False,False,False,True,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13500,5,0,93,40,2024,2,1,2024,5,3,2024,7,1,False,True,False,False,True,False,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,17500,3,1,1065,40,2025,11,5,2028,10,6,2028,11,4,False,False,False,True,False,True,False,False,False,False,0.01,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,10000,5,0,53,41,2024,2,3,2024,3,0,2024,5,6,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,16500,5,0,45,41,2024,1,5,2024,3,1,2024,4,0,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18500,4,1,213,40,2024,5,3,2024,12,6,2025,1,4,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17500,5,0,704,40,2025,3,4,2027,3,1,2027,4,6,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13000,4,1,1154,40,2026,1,6,2029,3,5,2029,4,3,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,24500,5,0,210,40,2024,5,1,2024,12,1,2025,1,6,True,False,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13000,4,1,259,40,2024,6,4,2025,2,4,2025,4,2,False,True,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,4,0,809,40,2025,6,2,2027,8,6,2027,10,4,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,17000,5,0,1140,40,2026,1,4,2029,2,3,2029,3,1,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,12500,4,1,47,41,2024,1,6,2024,3,4,2024,4,3,False,True,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24000,4,2,701,40,2025,3,2,2027,2,3,2027,4,1,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,20000,4,2,254,40,2024,6,1,2025,2,3,2025,4,1,True,False,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,21000,4,2,13,41,2024,1,6,2024,1,5,2024,3,4,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,14000,4,2,737,40,2025,4,4,2027,4,6,2027,6,4,False,True,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,12000,3,1,221,41,2024,5,1,2024,12,5,2025,2,4,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12500,5,0,253,40,2024,6,0,2025,2,1,2025,3,6,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,24500,5,0,794,41,2025,5,6,2027,7,2,2027,9,1,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13000,4,1,395,40,2024,9,1,2025,10,4,2025,11,2,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,21000,5,0,782,40,2025,5,5,2027,7,3,2027,8,1,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17500,3,1,772,40,2025,5,6,2027,6,1,2027,8,6,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10500,4,1,224,40,2024,5,3,2025,1,3,2025,2,1,False,False,True,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14000,4,0,39,41,2024,1,1,2024,3,5,2024,4,4,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,18000,5,0,19,42,2024,1,3,2024,1,1,2024,3,1,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,18000,5,0,766,40,2025,5,2,2027,6,5,2027,7,3,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,4,0,718,40,2025,4,6,2027,3,3,2027,5,1,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,16500,5,0,232,40,2024,5,1,2025,1,2,2025,2,0,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,13500,4,1,23,42,2024,1,5,2024,2,0,2024,3,0,False,True,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,4,0,251,40,2024,6,6,2025,2,5,2025,3,3,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23500,4,1,248,40,2024,6,4,2025,2,0,2025,3,5,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14500,5,0,240,40,2024,6,6,2025,1,1,2025,3,6,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,21000,5,0,1018,41,2025,10,3,2028,7,6,2028,9,5,True,False,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,21000,5,0,857,40,2025,7,4,2027,11,0,2027,12,5,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23500,3,1,832,40,2025,6,2,2027,9,1,2027,11,6,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18500,4,0,896,40,2025,7,2,2028,1,2,2028,2,0,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,16000,5,0,902,40,2025,8,6,2028,1,5,2028,3,3,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11000,4,1,904,40,2025,8,0,2028,1,1,2028,3,6,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,18000,5,0,1078,40,2025,11,6,2028,11,6,2028,12,4,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,12500,5,0,86,40,2024,2,3,2024,5,5,2024,6,3,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,21500,4,1,1074,40,2025,11,4,2028,10,0,2028,12,5,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,22500,5,0,266,40,2024,6,2,2025,3,2,2025,4,0,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20500,4,0,957,40,2025,9,5,2028,4,3,2028,5,1,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14500,5,0,136,40,2024,3,2,2024,8,5,2024,9,3,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18500,3,1,960,40,2025,9,0,2028,4,1,2028,6,6,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,13500,5,0,1036,40,2025,10,0,2028,8,0,2028,10,5,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18500,4,0,1034,40,2025,10,6,2028,8,4,2028,10,2,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,13000,4,1,980,40,2025,9,6,2028,5,6,2028,7,4,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,11500,4,2,987,40,2025,9,3,2028,6,3,2028,7,1,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16000,5,0,128,41,2024,3,4,2024,7,6,2024,9,5,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21500,4,0,124,40,2024,3,2,2024,7,0,2024,8,5,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,5,0,1031,40,2025,10,4,2028,8,6,2028,9,4,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19000,5,0,110,40,2024,3,6,2024,6,4,2024,8,2,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,17000,3,1,1022,40,2025,10,5,2028,8,5,2028,9,3,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,12500,4,0,111,40,2024,3,0,2024,6,6,2024,8,4,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,1,1087,40,2025,11,5,2028,11,0,2028,12,5,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,5,0,1090,40,2025,12,0,2028,11,5,2029,1,3,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,4,0,838,40,2025,6,6,2027,10,4,2027,11,2,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,16500,4,0,166,40,2024,4,0,2024,9,5,2024,11,3,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,14500,4,1,1129,40,2025,12,4,2029,1,6,2029,3,4,False,True,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13000,4,1,842,40,2025,6,2,2027,10,4,2027,11,2,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19500,5,0,1127,40,2025,12,3,2029,1,3,2029,3,1,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11500,4,2,848,40,2025,6,6,2027,10,0,2027,12,5,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18500,5,0,1115,40,2025,12,2,2029,1,4,2029,2,2,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,4,2,1111,41,2025,12,0,2028,12,5,2029,2,4,True,False,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,24500,4,2,1012,40,2025,10,6,2028,7,3,2028,8,1,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,24000,5,0,179,40,2024,4,2,2024,10,6,2024,11,4,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,3,2,859,40,2025,7,6,2027,11,4,2027,12,2,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,4,1,176,40,2024,4,0,2024,10,1,2024,11,6,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11500,4,1,1104,40,2025,12,2,2028,12,0,2029,1,5,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24500,5,0,869,40,2025,7,5,2027,11,6,2028,1,4,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,22000,4,0,173,40,2024,4,5,2024,10,3,2024,11,1,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21500,4,2,875,40,2025,7,2,2027,12,2,2028,1,0,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,17000,5,0,1102,40,2025,12,1,2028,12,4,2029,1,2,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22500,4,1,76,40,2024,2,4,2024,5,3,2024,6,1,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21500,4,2,1099,40,2025,12,6,2028,12,6,2029,1,4,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18000,4,0,1096,40,2025,12,4,2028,12,1,2029,1,6,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,20000,3,1,168,40,2024,4,2,2024,10,2,2024,11,0,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16500,3,1,264,40,2024,6,0,2025,3,5,2025,4,3,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18000,3,1,394,40,2024,9,0,2025,10,2,2025,11,0,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,5,0,623,40,2025,2,1,2026,10,1,2026,11,6,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,23000,4,2,452,40,2024,10,3,2026,1,0,2026,2,5,True,False,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,13000,4,0,494,40,2024,11,2,2026,3,6,2026,5,4,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,21000,5,0,602,40,2025,1,1,2026,9,1,2026,10,6,True,False,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18000,5,0,493,40,2024,11,1,2026,3,4,2026,4,2,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,16000,3,1,350,41,2024,8,0,2025,7,0,2025,9,6,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,612,40,2025,1,1,2026,10,4,2026,11,2,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,10000,4,1,299,40,2024,7,2,2025,5,0,2025,6,5,False,False,True,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,22000,5,0,490,40,2024,11,6,2026,3,6,2026,4,4,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,16000,5,0,295,40,2024,7,6,2025,4,0,2025,6,5,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,21000,4,2,353,40,2024,8,2,2025,8,5,2025,9,3,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21000,4,0,484,40,2024,11,2,2026,3,3,2026,4,1,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,18000,5,0,629,40,2025,2,5,2026,10,4,2026,12,2,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17500,5,0,481,40,2024,11,0,2026,2,5,2026,4,3,False,False,False,True,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,14000,4,2,290,40,2024,7,3,2025,4,6,2025,5,4,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24000,4,2,477,40,2024,11,5,2026,2,6,2026,4,4,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,20000,4,0,475,40,2024,10,3,2026,2,2,2026,3,0,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,3,2,636,40,2025,2,2,2026,11,1,2026,12,6,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,22500,5,0,471,40,2024,10,1,2026,2,3,2026,3,1,True,False,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,20000,4,0,363,40,2024,8,1,2025,8,0,2025,9,5,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,20000,4,2,465,40,2024,10,4,2026,2,0,2026,3,5,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10500,5,0,364,40,2024,8,2,2025,8,2,2025,9,0,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,24500,5,0,458,40,2024,10,0,2026,1,3,2026,3,1,True,False,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,12500,4,1,457,40,2024,10,6,2026,1,1,2026,3,6,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17500,5,0,456,40,2024,10,5,2026,1,6,2026,2,4,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19000,3,1,599,40,2025,1,6,2026,9,3,2026,10,1,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,499,40,2024,11,5,2026,3,0,2026,5,5,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,11500,4,2,501,40,2024,11,6,2026,4,3,2026,5,1,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,20000,4,0,561,40,2024,12,3,2026,7,4,2026,8,2,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,16000,4,0,536,40,2024,12,1,2026,5,5,2026,7,3,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,25000,5,0,533,40,2024,12,6,2026,5,0,2026,7,5,True,False,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,22000,5,0,546,40,2024,12,0,2026,6,0,2026,7,5,True,False,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10000,4,1,336,40,2024,8,5,2025,7,5,2025,8,3,False,False,True,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12000,5,0,550,40,2024,12,3,2026,6,0,2026,8,5,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,14000,5,0,525,40,2024,12,1,2026,5,1,2026,6,6,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18000,4,0,338,40,2024,8,6,2025,7,1,2025,8,6,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,19500,3,1,326,40,2024,7,5,2025,6,2,2025,7,0,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,22500,5,0,322,40,2024,7,3,2025,6,3,2025,7,1,True,False,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23000,5,0,521,40,2024,11,5,2026,5,1,2026,6,6,True,False,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,17000,5,0,518,40,2024,11,3,2026,4,3,2026,6,1,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12000,3,1,308,40,2024,7,1,2025,5,1,2025,6,6,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16000,5,0,320,40,2024,7,1,2025,6,6,2025,7,4,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13500,5,0,339,40,2024,8,0,2025,7,3,2025,8,1,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22500,5,0,570,41,2025,1,2,2026,7,5,2026,9,4,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,17000,3,1,573,41,2025,1,4,2026,7,3,2026,9,2,False,False,False,True,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,14500,4,1,507,40,2024,11,3,2026,4,6,2026,5,4,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,19500,3,1,506,40,2024,11,2,2026,4,4,2026,5,2,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24000,5,0,309,40,2024,7,2,2025,5,3,2025,7,1,True,False,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,5,0,344,40,2024,8,3,2025,7,4,2025,8,2,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,4,0,586,40,2025,1,5,2026,8,3,2026,9,1,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,13000,5,0,587,40,2025,1,6,2026,8,5,2026,10,3,False,True,False,False,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,12000,3,1,643,40,2025,2,0,2026,11,6,2027,1,4,False,True,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,10500,5,0,538,40,2024,12,2,2026,6,1,2026,7,6,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,10000,5,0,451,40,2024,10,2,2026,1,5,2026,2,3,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14000,4,0,407,40,2024,9,2,2025,10,3,2025,12,1,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18000,4,0,673,40,2025,3,5,2027,1,6,2027,2,4,False,False,False,True,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23000,5,0,378,40,2024,8,4,2025,9,4,2025,10,2,True,False,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,5,0,276,40,2024,6,1,2025,3,4,2025,5,2,False,False,False,True,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,13500,4,2,277,40,2024,6,2,2025,3,6,2025,5,4,False,True,False,False,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,18000,5,0,431,40,2024,10,3,2025,12,0,2026,1,5,False,False,False,True,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,13000,4,0,432,40,2024,10,4,2025,12,2,2026,1,0,False,True,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17500,5,0,419,40,2024,9,2,2025,11,1,2025,12,6,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11000,4,1,377,40,2024,8,3,2025,9,2,2025,10,0,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23000,4,1,415,40,2024,9,0,2025,11,2,2025,12,0,True,False,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,679,40,2025,3,2,2027,1,2,2027,3,0,False,False,False,True,True,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,21000,5,0,409,40,2024,9,3,2025,11,6,2025,12,4,True,False,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11500,4,1,680,40,2025,3,3,2027,1,4,2027,3,2,False,True,False,False,False,False,True,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11000,5,0,438,40,2024,10,1,2025,12,5,2026,1,3,False,True,False,False,False,False,False,True,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,4,0,425,40,2024,9,6,2025,11,4,2026,1,2,False,False,False,True,False,False,False,False,False,True,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,14500,3,1,444,41,2024,10,5,2025,12,1,2026,2,0,False,True,False,False,False,True,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,23000,5,0,285,40,2024,7,0,2025,4,5,2025,5,3,True,False,False,False,False,False,False,False,False,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,389,40,2024,9,4,2025,9,1,2025,11,6,False,True,False,False,False,False,False,False,True,False,0.005,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,4,0,975,40,2025,9,3,2028,5,5,2028,6,3,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,400,40,2024,9,4,2025,10,5,2025,11,3,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,5,0,1006,40,2025,10,2,2028,7,0,2028,8,5,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23500,5,0,334,40,2024,8,4,2025,7,2,2025,8,0,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10500,4,0,117,40,2024,3,4,2024,7,2,2024,8,0,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24500,5,0,421,40,2024,9,4,2025,11,5,2026,1,3,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22000,4,1,515,40,2024,11,1,2026,4,5,2026,6,3,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,13000,4,2,513,40,2024,11,0,2026,4,2,2026,6,0,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22000,5,0,963,40,2025,9,2,2028,4,6,2028,6,4,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,5,0,512,40,2024,11,6,2026,4,0,2026,5,5,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,22000,3,2,340,40,2024,8,1,2025,7,5,2025,8,3,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,17000,5,0,966,40,2025,9,4,2028,5,4,2028,6,2,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,5,0,1015,41,2025,10,1,2028,7,1,2028,9,0,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,13000,4,1,1017,41,2025,10,2,2028,7,4,2028,9,3,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,24000,5,0,396,40,2024,9,2,2025,10,6,2025,11,4,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,25000,5,0,509,40,2024,11,4,2026,4,2,2026,5,0,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18000,5,0,1153,40,2026,1,5,2029,3,3,2029,4,1,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,11500,5,0,41,41,2024,1,2,2024,3,1,2024,4,0,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17000,5,0,382,40,2024,9,6,2025,9,3,2025,10,1,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11500,5,0,1024,40,2025,10,6,2028,8,1,2028,9,6,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11500,4,2,401,40,2024,9,5,2025,10,0,2025,11,5,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,4,0,383,40,2024,9,0,2025,9,5,2025,10,3,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12000,4,0,968,40,2025,9,5,2028,5,0,2028,6,5,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23000,5,0,131,40,2024,3,6,2024,8,4,2024,9,2,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,1,527,40,2024,12,2,2026,5,4,2026,6,2,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,15000,4,2,974,40,2025,9,2,2028,5,3,2028,6,1,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,5,0,972,40,2025,9,1,2028,5,0,2028,6,5,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,24500,5,0,981,40,2025,9,0,2028,5,1,2028,7,6,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11000,4,1,129,41,2024,3,5,2024,7,1,2024,9,0,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,985,40,2025,9,2,2028,6,0,2028,7,5,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19000,3,2,524,40,2024,12,0,2026,5,6,2026,6,4,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,22500,4,1,988,40,2025,9,4,2028,6,5,2028,7,3,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,16000,5,0,26,41,2024,1,0,2024,2,5,2024,3,4,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19500,5,0,991,40,2025,9,6,2028,6,3,2028,7,1,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14500,4,0,993,40,2025,9,0,2028,6,6,2028,7,4,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22500,4,1,402,40,2024,9,6,2025,10,2,2025,12,0,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,14500,5,0,1148,40,2026,1,2,2029,2,2,2029,4,0,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,3,2,413,40,2024,9,5,2025,11,5,2025,12,3,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18500,5,0,530,40,2024,12,4,2026,5,2,2026,6,0,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13000,4,1,123,40,2024,3,1,2024,7,5,2024,8,3,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,5,0,999,40,2025,10,4,2028,6,2,2028,8,0,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23000,4,1,1000,40,2025,10,5,2028,6,4,2028,8,2,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17500,5,0,1003,40,2025,10,0,2028,7,2,2028,8,0,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,21000,5,0,994,40,2025,9,1,2028,6,1,2028,7,6,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,14500,5,0,426,40,2024,9,0,2025,11,6,2026,1,4,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,15000,4,0,51,41,2024,1,2,2024,3,4,2024,5,3,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,503,40,2024,11,0,2026,4,6,2026,5,4,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,12500,4,1,1067,40,2025,11,6,2028,10,2,2028,11,0,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,24000,5,0,1068,40,2025,11,0,2028,10,4,2028,11,2,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,12500,4,1,482,40,2024,11,1,2026,3,0,2026,4,5,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19000,5,0,1071,40,2025,11,2,2028,10,2,2028,12,0,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,23500,4,2,1124,40,2025,12,1,2029,1,5,2029,3,3,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,12000,5,0,1123,40,2025,12,0,2029,1,3,2029,2,1,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,17500,5,0,357,40,2024,8,4,2025,8,4,2025,9,2,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,25000,4,0,372,40,2024,8,0,2025,9,1,2025,10,6,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,22000,5,0,1118,40,2025,12,4,2029,1,2,2029,2,0,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,13000,4,0,1080,40,2025,11,0,2028,11,2,2028,12,0,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23000,5,0,1081,40,2025,11,1,2028,11,4,2028,12,2,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23000,5,0,359,40,2024,8,6,2025,8,1,2025,9,6,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,18500,5,0,63,40,2024,2,2,2024,4,2,2024,5,0,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19000,5,0,443,41,2024,10,4,2025,12,6,2026,2,5,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,18000,5,0,469,40,2024,10,6,2026,2,6,2026,3,4,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,17000,5,0,68,40,2024,2,5,2024,4,3,2024,5,1,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,15000,5,0,463,40,2024,10,3,2026,1,4,2026,3,2,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14000,5,0,1110,41,2025,12,6,2028,12,3,2029,2,2,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,22500,5,0,1093,40,2025,12,2,2028,11,3,2029,1,1,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,22000,4,2,365,40,2024,8,3,2025,8,4,2025,10,2,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,5,0,446,40,2024,10,6,2026,1,4,2026,2,2,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,14000,4,1,370,40,2024,8,6,2025,8,5,2025,10,3,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,11000,5,0,75,40,2024,2,3,2024,4,1,2024,6,6,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,10500,5,0,60,40,2024,2,0,2024,4,4,2024,5,2,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,16500,3,1,437,40,2024,10,0,2025,12,3,2026,1,1,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,1062,40,2025,11,3,2028,10,1,2028,11,6,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,22000,4,0,1044,40,2025,11,5,2028,9,6,2028,10,4,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19000,5,0,1028,40,2025,10,2,2028,8,1,2028,9,6,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18500,5,0,369,40,2024,8,5,2025,8,3,2025,10,1,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,20000,4,1,106,40,2024,3,4,2024,6,5,2024,8,3,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21500,3,2,427,40,2024,10,1,2025,12,1,2026,1,6,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,23000,4,2,55,41,2024,2,4,2024,3,3,2024,5,2,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11500,4,0,345,40,2024,8,4,2025,7,6,2025,8,4,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,22500,4,2,1137,40,2025,12,2,2029,2,5,2029,3,3,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,5,0,1136,40,2025,12,1,2029,2,3,2029,3,1,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,1041,40,2025,10,3,2028,9,1,2028,10,6,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,11000,4,1,1043,40,2025,10,4,2028,9,4,2028,10,2,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11500,4,1,99,40,2024,3,6,2024,6,0,2024,7,5,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,23000,4,2,540,40,2024,12,3,2026,6,4,2026,7,2,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19500,3,1,1047,40,2025,11,0,2028,9,4,2028,10,2,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14500,4,1,1049,40,2025,11,1,2028,9,0,2028,10,5,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14000,4,1,488,40,2024,11,5,2026,3,3,2026,4,1,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18500,5,0,1053,40,2025,11,4,2028,9,0,2028,11,5,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,4,0,1055,40,2025,11,5,2028,9,3,2028,11,1,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,5,0,351,41,2024,8,1,2025,7,2,2025,9,1,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21000,3,1,95,40,2024,2,2,2024,6,6,2024,7,4,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,1059,40,2025,11,1,2028,10,3,2028,11,1,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,1061,40,2025,11,2,2028,10,6,2028,11,4,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16000,3,1,376,40,2024,8,2,2025,9,0,2025,10,5,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,18500,5,0,692,40,2025,3,3,2027,2,2,2027,3,0,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,19500,4,0,147,40,2024,4,2,2024,8,2,2024,10,0,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,14000,4,1,956,40,2025,9,4,2028,4,1,2028,5,6,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,13000,4,1,768,40,2025,5,3,2027,6,1,2027,7,6,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17500,5,0,219,41,2024,5,0,2024,12,2,2025,2,1,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,5,0,778,40,2025,5,3,2027,7,4,2027,8,2,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,20000,4,2,776,40,2025,5,1,2027,6,0,2027,8,5,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,5,0,774,40,2025,5,0,2027,6,4,2027,8,2,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,23000,5,0,645,40,2025,2,1,2026,11,2,2027,1,0,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,24500,5,0,770,40,2025,5,4,2027,6,4,2027,7,2,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13500,5,0,649,40,2025,2,4,2026,12,2,2027,1,0,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18500,5,0,289,40,2024,7,2,2025,4,4,2025,5,2,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,25000,4,2,651,40,2025,2,5,2026,12,5,2027,1,3,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21500,4,2,764,40,2025,5,0,2027,6,1,2027,7,6,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,14000,5,0,762,40,2025,5,6,2027,6,5,2027,7,3,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19000,4,0,760,40,2025,5,5,2027,6,2,2027,7,0,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,13500,5,0,228,40,2024,5,5,2025,1,2,2025,2,0,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,23500,5,0,757,40,2025,5,3,2027,5,4,2027,7,2,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,642,40,2025,2,6,2026,11,4,2026,12,2,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18000,4,0,784,40,2025,5,0,2027,7,0,2027,8,5,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,5,0,816,40,2025,6,6,2027,9,3,2027,10,1,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,20000,4,2,801,40,2025,5,3,2027,8,6,2027,9,4,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,21500,4,1,626,40,2025,2,3,2026,10,6,2026,12,4,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,11500,5,0,811,40,2025,6,3,2027,8,2,2027,10,0,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11500,4,0,209,40,2024,5,0,2024,12,6,2025,1,4,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,22000,5,0,807,40,2025,6,0,2027,8,2,2027,9,0,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,18500,5,0,803,40,2025,5,5,2027,8,3,2027,9,1,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,23500,5,0,633,40,2025,2,0,2026,11,3,2026,12,1,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14000,5,0,799,40,2025,5,2,2027,8,3,2027,9,1,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,10000,5,0,786,40,2025,5,1,2027,7,3,2027,8,1,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,19000,3,1,797,40,2025,5,1,2027,8,0,2027,9,5,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,4,1,639,40,2025,2,4,2026,11,6,2026,12,4,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,12500,4,1,792,41,2025,5,5,2027,7,6,2027,9,5,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17500,5,0,790,40,2025,5,4,2027,7,3,2027,8,1,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,15000,5,0,215,40,2024,5,4,2024,12,2,2025,1,0,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,23000,4,2,788,40,2025,5,2,2027,7,6,2027,8,4,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,12000,4,1,284,40,2024,6,6,2025,4,3,2025,5,1,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,753,40,2025,4,1,2027,5,5,2027,7,3,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16000,5,0,654,40,2025,2,0,2026,12,3,2027,1,1,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21000,4,0,708,40,2025,3,6,2027,3,0,2027,4,5,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,5,0,670,40,2025,3,3,2027,1,1,2027,2,6,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,22500,4,2,676,40,2025,3,0,2027,1,4,2027,2,2,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,4,0,271,40,2024,6,5,2025,3,3,2025,4,1,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,23000,5,0,714,40,2025,4,3,2027,3,3,2027,4,1,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14500,4,1,712,40,2025,4,2,2027,3,0,2027,4,5,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,18000,5,0,257,40,2024,6,3,2025,2,1,2025,4,6,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,12500,4,1,706,40,2025,3,5,2027,3,4,2027,4,2,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,4,1,751,40,2025,4,6,2027,5,1,2027,6,6,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,24000,5,0,682,40,2025,3,4,2027,1,0,2027,3,5,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,15000,5,0,270,40,2024,6,4,2025,3,1,2025,4,6,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+830,10500,5,0,699,40,2025,3,1,2027,2,0,2027,4,5,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,24000,4,0,260,40,2024,6,5,2025,3,6,2025,4,4,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14000,5,0,687,40,2025,3,0,2027,2,1,2027,3,6,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,21000,4,2,689,40,2025,3,1,2027,2,4,2027,3,2,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+860,6500,4,1,274,40,2024,6,0,2025,3,1,2025,5,6,False,False,True,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,723,40,2025,4,2,2027,4,4,2027,5,2,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,725,40,2025,4,3,2027,4,0,2027,5,5,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,727,40,2025,4,4,2027,4,3,2027,5,1,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,15500,5,0,245,40,2024,6,2,2025,2,2,2025,3,0,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,21000,4,2,241,40,2024,6,0,2025,1,3,2025,3,1,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,12000,4,1,731,40,2025,4,0,2027,4,3,2027,5,1,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,23500,5,0,733,40,2025,4,1,2027,4,6,2027,5,4,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,5,0,666,41,2025,3,1,2026,12,2,2027,2,1,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,19500,5,0,735,40,2025,4,3,2027,4,3,2027,6,1,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,24000,4,2,663,41,2025,3,6,2026,12,4,2027,2,3,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,18500,5,0,741,40,2025,4,0,2027,5,6,2027,6,4,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10500,4,0,743,40,2025,4,1,2027,5,2,2027,6,0,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,22000,5,0,745,40,2025,4,2,2027,5,5,2027,6,3,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,4,0,279,40,2024,6,3,2025,4,2,2025,5,0,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,11000,4,0,234,40,2024,5,2,2025,1,5,2025,2,3,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11000,4,1,655,40,2025,2,1,2026,12,5,2027,1,3,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,16000,4,1,207,40,2024,5,6,2024,12,3,2025,1,1,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,14000,4,1,818,40,2025,6,0,2027,9,6,2027,10,4,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,19000,5,0,954,40,2025,9,3,2028,4,5,2028,5,3,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22000,5,0,906,40,2025,8,1,2028,1,4,2028,3,2,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,16000,5,0,555,40,2024,12,6,2026,6,1,2026,8,6,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,5,0,919,40,2025,8,2,2028,2,4,2028,3,2,True,False,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,21500,5,0,558,40,2024,12,1,2026,7,6,2026,8,4,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,13500,4,1,155,40,2024,4,0,2024,9,1,2024,10,6,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,5,0,911,40,2025,8,4,2028,2,5,2028,3,3,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+820,21000,4,0,156,40,2024,4,1,2024,9,3,2024,10,1,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11000,4,0,321,40,2024,7,2,2025,6,1,2025,7,6,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,22500,5,0,150,40,2024,4,4,2024,9,0,2024,10,5,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,4,2,564,40,2024,12,5,2026,7,2,2026,8,0,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,18000,3,1,160,40,2024,4,3,2024,9,2,2024,10,0,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,25000,4,2,900,40,2025,8,4,2028,1,1,2028,2,6,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,13000,4,1,568,40,2024,12,1,2026,7,2,2026,8,0,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11500,4,1,161,40,2024,4,4,2024,9,4,2024,10,2,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20500,5,0,894,40,2025,7,0,2028,1,5,2028,2,3,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,18000,4,0,921,40,2025,8,4,2028,2,1,2028,4,6,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,22500,4,2,925,40,2025,8,6,2028,2,0,2028,4,5,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,21000,4,0,820,40,2025,6,1,2027,9,2,2027,10,0,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18000,5,0,941,40,2025,8,2,2028,3,5,2028,5,3,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,332,40,2024,7,2,2025,6,5,2025,8,3,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,19000,5,0,543,40,2024,12,5,2026,6,2,2026,7,0,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14000,4,1,544,40,2024,12,6,2026,6,4,2026,7,2,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,4,0,948,40,2025,8,6,2028,4,2,2028,5,0,False,False,False,True,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,22500,5,0,944,40,2025,8,4,2028,3,3,2028,5,1,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17500,3,1,549,40,2024,12,2,2026,6,5,2026,7,3,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,24500,4,1,143,40,2024,4,0,2024,8,3,2024,10,1,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,10500,4,1,148,40,2024,4,3,2024,8,4,2024,10,2,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14500,5,0,937,40,2025,8,6,2028,3,5,2028,4,3,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,24000,4,2,552,40,2024,12,4,2026,6,3,2026,8,1,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,11500,4,1,265,40,2024,6,1,2025,3,0,2025,4,5,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,24000,5,0,932,40,2025,8,3,2028,3,4,2028,4,2,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,11500,4,1,931,40,2025,8,2,2028,3,2,2028,4,0,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,15000,5,0,327,40,2024,7,6,2025,6,4,2025,7,2,False,True,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19000,5,0,890,40,2025,7,5,2028,1,6,2028,2,4,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,20000,3,2,316,40,2024,7,6,2025,6,0,2025,7,5,True,False,False,False,False,False,False,False,False,True,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,22500,4,2,887,41,2025,7,3,2027,12,1,2028,2,0,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,20000,5,0,834,40,2025,6,4,2027,10,5,2027,11,3,False,False,False,True,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,846,40,2025,6,5,2027,10,4,2027,12,2,False,False,False,True,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,23000,3,1,608,40,2025,1,5,2026,9,4,2026,11,2,True,False,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+880,19500,3,2,301,40,2024,7,3,2025,5,3,2025,6,1,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,18000,3,1,840,40,2025,6,1,2027,10,1,2027,11,6,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,22000,5,0,297,40,2024,7,1,2025,5,4,2025,6,2,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+850,15000,4,2,836,40,2025,6,5,2027,10,1,2027,11,6,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,21500,5,0,192,40,2024,5,3,2024,11,6,2024,12,4,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,11500,5,0,885,41,2025,7,2,2027,12,5,2028,2,4,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+810,12000,4,1,618,40,2025,2,5,2026,10,0,2026,11,5,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,12500,4,0,830,40,2025,6,1,2027,9,5,2027,11,3,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17500,5,0,828,40,2025,6,0,2027,9,2,2027,11,0,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10500,4,0,296,40,2024,7,0,2025,4,2,2025,6,0,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,5,0,201,40,2024,5,2,2024,11,0,2025,1,5,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+930,14000,4,2,624,40,2025,2,2,2026,10,3,2026,12,1,False,True,False,False,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,10000,4,0,606,40,2025,1,4,2026,9,1,2026,11,6,False,True,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+840,22500,4,1,850,40,2025,6,0,2027,10,3,2027,12,1,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,18500,5,0,605,40,2025,1,3,2026,9,6,2026,10,4,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+940,14500,4,0,855,40,2025,7,3,2027,11,4,2027,12,2,False,True,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,14000,4,1,600,40,2025,1,0,2026,9,5,2026,10,3,False,True,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,24000,4,0,596,40,2025,1,4,2026,9,5,2026,10,3,True,False,False,False,False,False,False,False,True,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17000,5,0,307,40,2024,7,0,2025,5,6,2025,6,4,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,23000,4,1,863,40,2025,7,1,2027,11,3,2027,12,1,True,False,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+890,17500,5,0,865,40,2025,7,3,2027,11,0,2028,1,5,False,False,False,True,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+950,22500,4,2,589,40,2025,1,0,2026,8,1,2026,10,6,True,False,False,False,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,19500,4,0,871,40,2025,7,0,2027,12,3,2028,1,1,False,False,False,True,False,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,14500,5,0,873,40,2025,7,1,2027,12,6,2028,1,4,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,20000,5,0,583,40,2025,1,3,2026,8,5,2026,9,3,True,False,False,False,False,False,True,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+870,13500,5,0,314,40,2024,7,5,2025,5,4,2025,7,2,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+910,13000,4,1,879,40,2025,7,5,2027,12,2,2028,1,0,False,True,False,False,False,True,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+920,12000,5,0,167,40,2024,4,1,2024,9,0,2024,11,5,False,True,False,False,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+800,17000,3,1,883,40,2025,7,1,2027,12,2,2028,1,0,False,False,False,True,False,False,False,True,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72
+900,17000,5,0,592,40,2025,1,2,2026,8,6,2026,10,4,False,False,False,True,True,False,False,False,False,False,0.0,Low,No immediate action; keep routine monitoring,P3,Auto-monitoring,72

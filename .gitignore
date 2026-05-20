@@ -1,0 +1,18 @@
+# Ignore the large dataset file so it is not committed
+DataCoSupplyChainDataset.csv
+
+# Ignore local VS Code and helper files
+.vscode/
+rewrite_git_message.py
+rewrite_msg_filter.py
+terminal_debug.txt
+
+# Ignore local virtual environment
+.venv/
+
+# Ignore Jupyter notebook checkpoint directories
+.ipynb_checkpoints/
+
+# Ignore local output and project artifacts
+.qodo/
+two.pdf
